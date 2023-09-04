@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nathalia+Carvalho;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 ## Conect with me
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/nathy10carvalho)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-ff91a4?style=for-the-badge)](https://www.dio.me/users/nathy10carvalho)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ff91a4)](mailto:nathy10carvalho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff91a4)](https://www.linkedin.com/in/nathalia-carvalho-de-araujo-3822541b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff91a4)](https://www.instagram.com/Nathy10Carvalh0/)
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nathy10Carvalh0}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nathy10Carvalh0}/count.svg"/></p> 
 <br>
 </div>
