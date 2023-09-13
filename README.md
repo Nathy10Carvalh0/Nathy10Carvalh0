@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff91a4)](https://www.linkedin.com/in/nathalia-carvalho-de-araujo-3822541b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff91a4)](https://www.instagram.com/Nathy10Carvalh0/)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathy10carvalh0&theme=transparent&bg_color=000&border_color=ff91a4&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF" /> 
+<div align>  
   <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathy10Carvalh0&layout=compact&bg_color=000&border_color=ff91a4&title_color=E94D5F&text_color=FFF" />
 </div>
 
