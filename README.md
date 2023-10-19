@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ff91a4)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=ff91a4)
 ![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=ff91a4)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=ff91a4)
 ### Libraries and Frameworks
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=ff91a4)
 ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=ff91a4)
