@@ -22,18 +22,9 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-01041d?style=for-the-badge&logo=linkedin&logoColor=D50179)](https://www.linkedin.com/in/nathalia-carvalho-de-araujo-3822541b9/)
 [![Instagram](https://img.shields.io/badge/Instagram-01041d?style=for-the-badge&logo=instagram&logoColor=D50179)](https://www.instagram.com/Nathy10Carvalh0/)
 
-
-<div align>  
-<img width="50%" height="285px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathy10carvalh0&theme=transparent&bg_color=01041d&border_color=02062f&show_icons=true&icon_color=ff91a4&title_color=ff91a4&text_color=ff91a4" />
- 
- <img width="45%" height="285px"  src="https://github-readme-stats.vercel.app/api?username=Nathy10carvalh0&theme=transparent&bg_color=01041d&border_color=02062f&show_icons=true&icon_color=ff91a4&title_color=ff91a4&text_color=F5DADF" />
-  
-</div>
-
-
 <!-- fonte para os bagdes: https://dev.to/envoy_/150-badges-for-github-pnk#social -->
 
- ## Skills  
+ ### Skills  
 ![HTML5](https://img.shields.io/badge/HTML5-01041d?style=for-the-badge&logo=html5&logoColor=D50179)
 ![CSS3](https://img.shields.io/badge/CSS3-01041d?style=for-the-badge&logo=css3&logoColor=D50179)
 ![JavaScript](https://img.shields.io/badge/JavaScript-01041d?style=for-the-badge&logo=javascript&logoColor=D50179)
@@ -52,6 +43,16 @@ Here are some ideas to get you started:
 ![Power Bi](https://img.shields.io/badge/power_bi-01041d?style=for-the-badge&logo=powerbi&logoColor=D50179)
 ![Git](https://img.shields.io/badge/git-01041d.svg?style=for-the-badge&logo=git&logoColor=D50179)
 ![GitHub](https://img.shields.io/badge/github-01041d.svg?style=for-the-badge&logo=github&logoColor=D50179)    
+
+<div align>  
+<img width="50%" height="240px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nathy10carvalh0&theme=transparent&bg_color=01041d&border_color=02062f&show_icons=true&icon_color=ff91a4&title_color=ff91a4&text_color=ff91a4" />
+ 
+ <img width="45%" height="285px"  src="https://github-readme-stats.vercel.app/api?username=Nathy10carvalh0&theme=transparent&bg_color=01041d&border_color=02062f&show_icons=true&icon_color=ff91a4&title_color=ff91a4&text_color=F5DADF" />
+  
+</div>
+
+
+
 
 
 <div align="center">
