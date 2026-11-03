@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D50179&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;+My+name+is+Nathalia+Carvalho;I'm+23+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D50179&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;+My+name+is+Nathalia+Carvalho;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 ### Conect with me
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-D50179?style=for-the-badge)](https://www.dio.me/users/nathy10carvalho)
